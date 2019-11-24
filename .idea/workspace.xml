@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/PathVisualizer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-examples-master/kotlin-examples-master/gradle/js-tests/frontend-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-examples-master/kotlin-examples-master/gradle/js-tests/jasmine" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-examples-master/kotlin-examples-master/gradle/js-tests/jest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-examples-master/kotlin-examples-master/gradle/js-tests/karma" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-examples-master/kotlin-examples-master/gradle/js-tests/mocha" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-examples-master/kotlin-examples-master/gradle/js-tests/qunit" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-examples-master/kotlin-examples-master/gradle/js-tests/tape" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/kotlin-js-gradle-demo-master/kotlin-js-gradle-demo-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Kotlin-JS-Playground" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../PathVisualizer" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="GDdiPiHp" />
+  </component>
+  <component name="ProjectId" id="1U2mhHfTcWoaQoHgyThZrQuVQVL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+</project>
