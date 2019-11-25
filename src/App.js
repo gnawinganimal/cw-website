@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.scss';
-import { HashRouter, Switch, Route } from 'react-router-dom';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import Home from './pages/Home';
 import Particles from 'react-particles-js';
@@ -9,7 +9,7 @@ import Fiction from './pages/Fiction';
 import Poetry from './pages/Poetry';
 
 const App = () => (
-  <HashRouter>
+  <BrowserRouter>
     <div className="App">
       <Particles style={{position: 'absolute', backgroundColor: '#b485ff'}} params={particles} />
       <div className="container">
@@ -29,7 +29,7 @@ const App = () => (
         </div>
       </div>
     </div>
-  </HashRouter>
+  </BrowserRouter>
 );
 
 export default App;
