@@ -16,13 +16,13 @@ const App = () => (
         <Navigation />
         <div className="content" style={{position:'relative'}}>
           <Switch>
-            <Route path="/home" exact={true}>
+            <Route path="/home">
               <Home />
             </Route>
-            <Route path="/fiction" exact={true}>
+            <Route path="/fiction">
               <Fiction />
             </Route>
-            <Route path="/poetry" exact={true}>
+            <Route path="/poetry">
               <Poetry />
             </Route>
           </Switch>
