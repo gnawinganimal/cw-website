@@ -1,26 +1,29 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import Navigation from './components/Navigation';
+import Home from './pages/Home';
+import Particles from 'react-particles-js';
+import { Card } from 'react-bootstrap';
+import particles from './particles';
 
-function App() {
-  return (
+const App = () => (
+  <BrowserRouter>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Particles width="100%" height="100%" style={{position: 'absolute', backgroundColor: '#b485ff'}} params={particles} />
+      <div className="container">
+        <Navigation />
+        <div className="content" style={{position:'relative'}}>
+          <Switch>
+            <Route path="/home" exact={true}>
+              <Home />
+            </Route>
+          </Switch>
+        </div>
+      </div>
     </div>
-  );
-}
+  </BrowserRouter>
+);
 
 export default App;
