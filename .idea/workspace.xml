@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41a248b1-398a-4532-9528-e1f37bf9572c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/Poetry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/Changes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/Depression.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/Excitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/IWannaGoBack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/InfiniteLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/Jammin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/NotQuiteRight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/Smash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projects/WhenTheSunGoesDown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation.js" afterDir="false" />
-    </list>
+    <list default="true" id="41a248b1-398a-4532-9528-e1f37bf9572c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574563182146</updated>
-      <workItem from="1574563187233" duration="24268000" />
+      <workItem from="1574563187233" duration="24844000" />
     </task>
     <task id="LOCAL-00001" summary="progress">
       <created>1574649954245</created>
@@ -116,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574655102306</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add poetry">
+      <created>1574657794652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574657794652</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="progress" />
     <MESSAGE value="Add fiction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fiction" />
+    <MESSAGE value="Add poetry" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add poetry" />
   </component>
 </project>
